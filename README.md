@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
+</div>
 
-<!--
-**Cyligo/Cyligo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Greetings, I'm Cyligo!</h1>
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a Computer Science student <br>
+- 🐍 Becoming proficient in `Python` <br>
+- 🖼️ Currently learning `JavaScript` and `React.js` <br>
+- 📖 Experience with `HTML`, `CSS`, `Java`, `Python`, `C`, `SQL`
+- 🎮 Video game enthusiast <br>
+
+---
+
+### My stats on GitHub
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cyligo&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f2&bg_color=00000000"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyligo&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=f8f8f2&bg_color=00000000"/>
+</div>
