@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
 </div>
 
-<h1 align="center"> Greetings, I'm Cyligo!</h1>
+<h1 align="center">Greetings, I'm Cyligo!</h1>
 
 ### About me
 
