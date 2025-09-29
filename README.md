@@ -17,10 +17,6 @@
 ### My stats on GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-              <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cyligo&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f2&bg_color=00000000"/>
-          </a>
-          <a href="https://github.com/anuraghazra/convoychat">
-              <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyligo&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=f8f8f2&bg_color=00000000"/>
-          </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cyligo&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4&text_color=f8f8f2&bg_color=00000000"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyligo&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=f8f8f2&bg_color=00000000"/>
 </div>
