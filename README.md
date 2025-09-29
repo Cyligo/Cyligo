@@ -9,7 +9,7 @@
 - 💻 I'm a Computer Science student <br>
 - 🐍 Becoming proficient in `Python` <br>
 - 🖼️ Currently learning `JavaScript` and `React.js` <br>
-- 📖 Experience with `HTML`, `CSS`, `Java`, `C`, `SQL`
+- 📖 Experience with `HTML`, `CSS`, `Java`, `C`, `C++`, `C#`, `SQL`
 - 🎮 Video game enthusiast <br>
 
 ---
